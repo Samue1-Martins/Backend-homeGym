@@ -17,7 +17,7 @@
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Samue1-Martins/Mini-projeto.git
+  git clone https://github.com/Samue1-Martins/Backend-homeGym.git
 ```
 
 Entre na pasta diretório do projeto
