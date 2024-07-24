@@ -32,7 +32,7 @@ Instale todas as dependências
   npm install
 ```
 
-Inicie o projeto React no terminal
+Inicie o projeto no terminal
 
 ```bash
   npm run dev
